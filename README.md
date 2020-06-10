@@ -1,6 +1,6 @@
-#Weather 24
+# Weather 24
 
-# App setup
+## App setup
 Setup process: A simple way to initialize project in Django.
 
 ## Requirements
